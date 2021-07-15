@@ -116,3 +116,8 @@ dd {
   border-left: 2px solid #444444;
   border-radius: 25px;
 }
+
+
+.alert {
+  display:inline-block;
+}
