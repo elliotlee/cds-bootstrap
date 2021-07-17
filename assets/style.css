@@ -7,7 +7,7 @@ body {
 }
 
 p {
-	font-family: Raleway;
+	font-family: Roboto;
 	font-size:  1.3em;
 }
 
@@ -56,8 +56,8 @@ footer {
 
 
 a {
-   text-decoration: none;
-   color: #009933;
+  text-decoration: none;
+  color: #009933;
 }
 
 
