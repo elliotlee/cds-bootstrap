@@ -3,7 +3,24 @@
 
 body {
 	font-family: Roboto;
-	background-color: ;
+  background-color: #edf5fa;
+}
+
+main {
+
+
+}
+
+.background {
+  background-image: url("images/pexels-eberhard-grossgasteiger-1287145asdsgdf.jpg");
+  background-size:  100% auto;
+
+  position: relative;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+  background-repeat: no-repeat;
 }
 
 p {
@@ -33,6 +50,11 @@ footer {
 
 }
 
+
+
+
+
+
 .thumbnail {
 	width: 400px;
 	height: 70px;
@@ -41,6 +63,7 @@ footer {
 .nav-link {
 	color: #2b2b2b;
   font-weight: 300;
+  -webkit-text-stroke: 1px white;
 }
 
 .nav-link:hover {
@@ -110,13 +133,16 @@ dd {
 
 
 .btn {
-  border-right: 2px solid #444444;
-  border-top: 2px solid #444444;
-  border-bottom: 2px solid #444444;
-  border-left: 2px solid #444444;
+  border-right: 3px solid #444444;
+  border-top: 3px solid #444444;
+  border-bottom: 3px solid #444444;
+  border-left: 3px solid #444444;
   border-radius: 25px;
 }
 
+.btn-lg {
+  background-color: mediumspringgreen;
+}
 
 .alert {
   display:inline-block;
