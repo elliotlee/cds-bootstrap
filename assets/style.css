@@ -3,7 +3,7 @@
 
 body {
 	font-family: Roboto;
-  background-color: #edf5fa;
+  background-color: MintCream;
 }
 
 main {
@@ -64,6 +64,12 @@ footer {
 	color: #2b2b2b;
   font-weight: 300;
   -webkit-text-stroke: 1px white;
+}
+
+.gallery-nav{
+  color: black;
+  font-weight: 300;
+  -webkit-text-stroke: 1px black;
 }
 
 .nav-link:hover {
