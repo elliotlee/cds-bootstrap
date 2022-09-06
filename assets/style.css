@@ -38,6 +38,7 @@ h1 {
 h2 {
 	font-family: Roboto;
 	color:  #133926;
+  backdrop-filter: blur(20px);
 }
 
 color:	#21618c;
