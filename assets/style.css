@@ -54,7 +54,9 @@ footer {
 
 
 
-
+.navbar {
+  backdrop-filter: blur(20px);
+}
 
 .thumbnail {
 	width: 400px;
