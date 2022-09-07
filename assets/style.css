@@ -45,6 +45,7 @@ h2 {
 
 h3 {
   font-family: EB Garamond;
+  font-size: 2rem;
 }
 
 color:	#21618c;
@@ -103,8 +104,13 @@ a {
 
 
 dt {
-	font-size: 1.5em;
+	font-size: 0.8em;
 	font-family: Noto Sans;
+}
+
+dl {
+  font-size: 0.8em;
+  font-family: Noto Sans;
 }
 
 
